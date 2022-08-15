@@ -1,2 +1,24 @@
-# vue3_cli_bbs
-프로젝트에서 vue2 + vue-cli 로 개발하고 있던 게시판을 vue3 로 만들어 보자.
+# common_board
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
